@@ -1,2 +1,2 @@
 # quiz
-fun quiz
+something light and fun.
